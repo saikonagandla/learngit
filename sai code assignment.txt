@@ -1,0 +1,17 @@
+01.
+
+str="arrb7??5xxbl8??eee4"
+for  i in str:
+	if i==isdigit() and i+3==is digit():
+		
+		sum=str[i]+str[i+3]
+
+		print(sum)
+	else:
+		print("no")
+
+
+o2.
+   a)select* from bill number ORDER BY total quantity  
+   
+    b)select * from   item name total quality sold total quality DESC
